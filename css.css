@@ -1,4 +1,4 @@
-  div {
+  div, dl, dd, dt {
     background: #A07DFF;
     color: #000000;
     padding: 100x;
