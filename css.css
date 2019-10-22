@@ -13,6 +13,7 @@
     line-height: 80%;
    }
    h1{
+    font-family: Calibri;
     background: #7B62C1;
     color: #FFFFFF;
     padding: 100x;
@@ -21,7 +22,8 @@
     margin: 200px;
     padding: 20px;
    }
-   h2{
+   h3{
+    font-family: Calibri;
     background: #7B62C1;
     color: #FFFFFF;
     padding: 100x;
