@@ -3,12 +3,14 @@
     color: #000000;
     padding: 100x;
     border-radius: 25px;
+    border: none;
     text-align: center; 
     margin: 40px;
     padding: 20px;
-    font-size: 10;
-    font: Calibri;
+    font-size: 250%;
+    font-family: Calibri;
     size: 20px;
+    line-height: 50%;
    }
    h1{
     background: #7B62C1;
