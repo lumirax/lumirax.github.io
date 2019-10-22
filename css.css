@@ -1,16 +1,16 @@
   div, dl, dd, dt {
     background: #A07DFF;
-    color: #000000;
+    color: #FFFFFF;
     padding: 100x;
     border-radius: 25px;
     border: none;
     text-align: center; 
     margin: 40px;
     padding: 20px;
-    font-size: 250%;
+    font-size: 150%;
     font-family: Calibri;
     size: 20px;
-    line-height: 50%;
+    line-height: 60%;
    }
    h1{
     background: #7B62C1;
