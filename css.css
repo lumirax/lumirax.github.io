@@ -48,3 +48,8 @@ button {
     font-size: 11;
     display: inline-block;
    }
+a {
+  text-decoration: none;
+  color: white;
+  display: block;
+}
